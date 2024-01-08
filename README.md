@@ -37,6 +37,7 @@ REGISTER NO  : 23000491
  
 
 # Output : 
+![image](https://github.com/eesub799/Poisson_distribution/assets/155223154/a25068b4-e8a7-47d2-9375-742c9ef5a432)
 
 
 
