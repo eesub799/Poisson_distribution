@@ -32,6 +32,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 DEVELOPED BY : SHAIK EESUB
 REGISTER NO  : 23000491
 ![image](https://github.com/eesub799/Poisson_distribution/assets/155223154/77ab635d-fd47-4f48-8da0-57ec633203ad)
+![image](https://github.com/eesub799/Poisson_distribution/assets/155223154/8fa08b8e-9e9d-4dc4-8a2e-4a051bb9748c)
 
  
 
